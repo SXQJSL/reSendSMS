@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">群发称呼</string>
+    <string name="hello_world">请将短信模板填入下方的文本框内，需要替换称呼的地方请以‘（称呼）’代替，包含括号!\n 例如：我好喜欢你（称呼）！\n 效果：我好喜欢你XXX！</string>
+    <string name="action_settings">Settings</string>
+    <string name="s_contact">选择联系人</string>
+    <string name="send">发送</string>
+    <string name="s_info">已选择的联系人列表</string>
+    <string name="power">Power by 709907251</string>
+
+</resources>
